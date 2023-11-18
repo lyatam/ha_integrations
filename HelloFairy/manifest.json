@@ -1,0 +1,7 @@
+{
+    "domain": "hello_fairy",
+    "name": "Hello Fairy BSL11",
+    "requirements": ["bleak"],
+    "iot_class": "assumed_state",
+    "version": "0.0.1"
+}
